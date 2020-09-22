@@ -1,5 +1,4 @@
 # DAM20203-MARTINEZ--ALMEJO-JOSE-MANUEL--Diagnostico
-Examen diagnostico materia Desarrollo de aplicaciones hibridas
 Desarrolla una aplicación Web con las siguientes características.
 
 >Login: 
